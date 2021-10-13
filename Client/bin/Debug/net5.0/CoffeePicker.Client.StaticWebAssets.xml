@@ -1,0 +1,4 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="D:\Projects\Code with Julian\2021\42. Blazor Webassembly API Controller\Project\tutorial\CoffeePicker\CoffeePicker\Client\bin\Debug\net5.0\wwwroot\" />
+  <ContentRoot BasePath="/" Path="D:\Projects\Code with Julian\2021\42. Blazor Webassembly API Controller\Project\tutorial\CoffeePicker\CoffeePicker\Client\obj\Debug\net5.0\scopedcss\bundle\" />
+</StaticWebAssets>
